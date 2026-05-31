@@ -73,7 +73,7 @@ This factor captures periods in which cryptocurrencies outperform precious metal
 
 ## PCA Projection
 
-![PCA Scatter Plot](images/pca_scatter.png)
+![PCA Scatter Plot](images/pca-of-btc-eth-gd-sl.png)
 
 Each point represents a trading day projected onto the first two principal components.
 
